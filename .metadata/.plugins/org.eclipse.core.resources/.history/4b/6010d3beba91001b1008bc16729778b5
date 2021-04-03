@@ -1,0 +1,7 @@
+package br.com.alura.forum.controller;
+
+@Controller
+public class HelloController {
+	
+	
+}
